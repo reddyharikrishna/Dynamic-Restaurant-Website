@@ -76,7 +76,7 @@ Dynamic-Restaurant-Website/
 ## Usage
 1. Access the website at http://localhost:8000
 
-2.Navigate through sections:
+ 2.Navigate through sections:
    - Browse menu items
    - View recipe details
    - Read customer testimonials
