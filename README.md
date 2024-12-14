@@ -4,7 +4,7 @@
 - A modern, responsive restaurant website showcasing authentic Indian cuisine with an elegant user interface and seamless user experience.
 - Developed a responsive and user-friendly restaurant website, including features like homepage,  menu, gallery, contact form, and reservation system.
 
-[Watch Demo Video](add-your-demo-video-url)
+[Watch Live Demo Video](http://127.0.0.1:5501/index.html#)
 
 ![Project Image](assets/images/15.jpg)
 
