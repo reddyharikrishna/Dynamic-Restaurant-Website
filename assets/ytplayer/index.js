@@ -1,4 +1,3 @@
-/*! yt-player. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
 var EventEmitter = function () {
     this.events = {};
   };
@@ -80,21 +79,12 @@ var EventEmitter = function () {
   }
   
   var YOUTUBE_ERROR = {
-    // The request contains an invalid parameter value. For example, this error
-    // occurs if you specify a videoId that does not have 11 characters, or if the
-    // videoId contains invalid characters, such as exclamation points or asterisks.
     INVALID_PARAM: 2,
   
-    // The requested content cannot be played in an HTML5 player or another error
-    // related to the HTML5 player has occurred.
     HTML5_ERROR: 5,
   
-    // The video requested was not found. This error occurs when a video has been
-    // removed (for any reason) or has been marked as private.
     NOT_FOUND: 100,
   
-    // The owner of the requested video does not allow it to be played in embedded
-    // players.
     UNPLAYABLE_1: 101,
   
     // This error is the same as 101. It's just a 101 error in disguise!
