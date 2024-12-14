@@ -4,7 +4,7 @@
 - A modern, responsive restaurant website showcasing authentic Indian cuisine with an elegant user interface and seamless user experience.
 - Developed a responsive and user-friendly restaurant website, including features like homepage,  menu, gallery, contact form, and reservation system.
 
-[Watch Live Demo Video]("C:\Users\reddy\Downloads\Dynamic-Restaurant-Website - Hari Foods .mp4")
+[Watch video URL](https://firebasestorage.googleapis.com/v0/b/fir-project-bb000.appspot.com/o/Dynamic-Restaurant-Website%20-%20Hari%20Foods%20.mp4?alt=media&token=00623ad6-fbdf-4d9a-8610-9d47644848e5)
 
 ![Project Image](assets/images/15.jpg)
 
