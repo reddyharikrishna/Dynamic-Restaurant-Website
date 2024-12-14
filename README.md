@@ -6,7 +6,8 @@
 
 [Watch video URL](https://firebasestorage.googleapis.com/v0/b/fir-project-bb000.appspot.com/o/Dynamic-Restaurant-Website%20-%20Hari%20Foods%20.mp4?alt=media&token=00623ad6-fbdf-4d9a-8610-9d47644848e5)
 
-![Project Image](![Welcome to Hari Food](https://github.com/user-attachments/assets/a620901a-3b64-4e57-8e4e-ec5adf12bb96)
+[Project Image]
+(![Welcome to Hari Food](https://github.com/user-attachments/assets/a620901a-3b64-4e57-8e4e-ec5adf12bb96)
 
 ## 🌟 Description
 
