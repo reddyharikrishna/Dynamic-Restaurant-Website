@@ -72,34 +72,6 @@ Dynamic-Restaurant-Website/
 ├── index.html
 └── README.md
 
-🤝 Contributing
-Fork the repository
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add: Amazing Feature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details
-
-🎯 Future Enhancements
-Online ordering system
-User authentication
-Menu customization options
-Table reservation system
-Multi-language support
-Performance optimization
-
-
-📸 Screenshots
-
-Home Page
-
-Menu Section
-
-Contact Form
-
-Stats
 
 
 
@@ -128,11 +100,11 @@ Stats
 
 ![Project Image](assets/images/15.jpg)
 
-🌟 Description
+## 🌟 Description
 
 A modern, dynamic restaurant website that showcases authentic Indian cuisine. This project features a responsive design, interactive elements, and comprehensive information about the restaurant's offerings.
 
- ✨ Features
+ ## ✨ Features
 
 - Interactive homepage with image carousel
 - Detailed menu presentation
@@ -143,7 +115,7 @@ A modern, dynamic restaurant website that showcases authentic Indian cuisine. Th
 - Mobile-responsive design
 - FAQ section with accordion functionality
 
- 🛠 Technologies Used
+ ## 🛠 Technologies Used
 
 - Frontend:
   - HTML5
@@ -158,7 +130,7 @@ A modern, dynamic restaurant website that showcases authentic Indian cuisine. Th
   - Google Maps API
   - Social Media APIs
 
-📦 Installation
+## 📦 Installation
 
 1. Clone the repository
 
@@ -171,7 +143,7 @@ python -m http.server 8000
 
 Or simply open index.html in your browser
 
-📁 Project Structure
+## 📁 Project Structure
 
 
 Dynamic-Restaurant-Website/
@@ -184,7 +156,7 @@ Dynamic-Restaurant-Website/
 ├── index.html
 └── README.md
 
-Usage
+## Usage
 1. Access the website at http://localhost:8000
 
 2.Navigate through sections:
@@ -195,17 +167,44 @@ Usage
    - Find location on map
    - Connect via social media
 
-Contributing
+## 🤝 Contributing
+Fork the repository
+Create your feature branch (git checkout -b feature/AmazingFeature)
+Commit your changes (git commit -m 'Add: Amazing Feature')
+Push to the branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+
+## 🎯 Future Enhancements
+Online ordering system
+User authentication
+Menu customization options
+Table reservation system
+Multi-language support
+Performance optimization
+
+
+## 📸 Screenshots
+
+Home Page
+
+Menu Section
+
+Contact Form
+
+Stats
+
+
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss proposed changes.
 
-License
+## License
 This project is licensed under the MIT License
 
 
 
 
 
-🚀 Pushing to GitHub
+## 🚀 Pushing to GitHub
 
 To push this project to your GitHub repository:
 
