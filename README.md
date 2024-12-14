@@ -53,13 +53,21 @@ Or simply open index.html in your browser
 
 
 Dynamic-Restaurant-Website/
+
 ├── assets/
+
 │   ├── images/
+
 │   ├── web/
+
 │   ├── bootstrap/
+
 │   ├── parallax/
+
 │   └── theme/
+
 ├── index.html
+
 └── README.md
 
 ## Usage
