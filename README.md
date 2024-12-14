@@ -129,7 +129,7 @@ This project is licensed under the [MIT License](LICENSE)
 
 To push this project to your GitHub repository:
 
-
+```bash
 git init
 git add .
 git commit -m "Initial commit: Dynamic Restaurant Website"
