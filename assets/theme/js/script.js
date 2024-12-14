@@ -46,7 +46,6 @@
         return i;
     }
 
-    // fadeIn and fadeOut functions from https://only-to-top.ru/blog/coding/2019-09-24-jquery-to-js.html
     function fadeOut(el) {
         (function fade() {
             if ((el.style.opacity -= .1) < 0) {
@@ -68,7 +67,6 @@
         })();
     };
 
-    // get parents function from https://gist.github.com/ziggi/2f15832b57398649ee9b
     Element.prototype.parents = function(selector) {
         var elements = [];
         var elem = this;
@@ -118,8 +116,6 @@
 
 
     (function (sr) {
-        // debouncing function from John Hann
-        // http://unscriptable.com/index.php/2009/03/20/debouncing-javascript-methods/
         var debounce = function (func, threshold, execAsap) {
             var timeout;
 
@@ -1094,15 +1090,11 @@
 
             // Youtube & Vimeo
             document.querySelectorAll('.modalWindow-video > iframe').forEach(function (el) {
-                // var videoURL = el.getAttribute('data-src') || el.getAttribute('src');
                 var videoURL = el.getAttribute('data-src');
                 if (!videoURL) return;
                 el.removeAttribute('data-src');
 
                 
-                // var videoURL = el.getAttribute('data-src') || el.getAttribute('src');
-                // el.removeAttribute('data-src');
-                // el.removeAttribute('src');
 
                 var parsedUrl = videoURL.match(/(http:\/\/|https:\/\/|)?(player.|www.)?(vimeo\.com|youtu(be\.com|\.be|be\.googleapis\.com))\/(shorts\/|video\/|embed\/|watch\?v=|v\/)?([A-Za-z0-9._%-]*)(&\S+)?/);
                 if (videoURL.indexOf('youtu') !== -1) {
@@ -1399,7 +1391,6 @@
                     $(this).styler();
                     $(this).parent().parent().removeClass('form-control')
                 });
-                // documentation about plugin https://xdsoft.net/jqplugins/datetimepicker/
                 $(form).find('input[type=date]').each(function () {
                     if ($(this).datetimepicker)
                         $(this).datetimepicker({
