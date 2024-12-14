@@ -101,13 +101,16 @@ Performance optimization
 
 ## 📸 Screenshots
 
-Home Page
+Home Page: ![Home](https://github.com/user-attachments/assets/c5aeb42a-131f-43a4-9da1-a6598e20989b)
 
-Menu Section
 
-Contact Form
+Menu Section: ![Menu](https://github.com/user-attachments/assets/53004853-80b1-4860-b0d1-679e1443c8d5)
 
-Stats
+
+Get in Touch: ![Get in Touch](https://github.com/user-attachments/assets/a404af71-92a5-45d3-98a5-625d8cce4534)
+
+
+Contact Form: ![Contact Us](https://github.com/user-attachments/assets/7bcb73b7-80a3-42fa-9425-58aba4b4fdfa)
 
 
 ## Contributing
